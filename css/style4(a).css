@@ -1,6 +1,6 @@
 
 div{
-    color: silver;
+    color: rgba(175, 34, 34, 0.655);
     background: #000;
 }
 .box_1{
@@ -9,4 +9,15 @@ div{
     border: 2px solid red;
     border-radius: 15px;
     padding: 5px;
+    text-align: right;
+}
+li{
+   list-style: none;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    margin: 19px;
+    padding: 12px;
+    border: 10px solid rgb(255, 161, 177);
+    border-radius: 23px;
 }
