@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1000px;
+    margin: 12px;
+    height: 500px;
+    padding: 12px;
+    border: 2px solid red;
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center;
+    align-items: center; */
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.inner_box{
+    width: 40px;
+    margin: 12px;
+    height: 100px;
+    padding: 12px;
+    border: 2px solid red;
+}
